@@ -1,2 +1,3 @@
-# Form Sample
-A form Sample made by Manish Tiwari
+# Python Code
+Random Name Generator
+By Manish Tiwari
